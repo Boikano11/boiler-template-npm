@@ -3,6 +3,7 @@
 	"author": "Tsholofetso Pooe",
 	"description": "1st fcc tutorial for backend",
 	"keywords": ["freecodecamp", "Node.js", "Backend"],
+	"license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
