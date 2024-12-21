@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tsholofetso Pooe",
+	"description": "1st fcc tutorial for backend",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
